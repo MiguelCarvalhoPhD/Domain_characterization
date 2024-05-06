@@ -1,0 +1,10 @@
+cudf==0.6.1.post1
+cugraph==0.6.1.post1
+cuml==0.6.1.post1
+cupy==13.0.0
+imbalanced_learn==0.12.0
+imblearn==0.0
+matplotlib==3.8.0
+numpy==1.24.3
+pandas==1.5.3
+problexity==0.5.7
